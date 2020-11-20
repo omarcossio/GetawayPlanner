@@ -9,7 +9,7 @@ function findLonLat(cityValue) {
   }).then(function (response) {
     var lon = response.coord.lon;
     var lat = response.coord.lat;
-    console.log(response);
+    
     buildQueryURL();
     return lon, lat;
     function buildQueryURL() {
@@ -27,7 +27,7 @@ function findLonLat(cityValue) {
         url: queryURL,
         method: "GET",
       }).then(function (response) {
-        console.log(response);
+        
         for (var i = 0; i < response.daily.length; i++) {
           var weatherBox = $("<div>");
           weatherBox.addClass("box");
