@@ -32,9 +32,9 @@ Will - OpenWeatherMap
 - Will Dane
 
 # View live link
-https://omarcossio.github.io/project1B/
+https://omarcossio.github.io/GetawayPlanner/
 
 # View code on Github
-https://github.com/omarcossio/project1B
+https://github.com/omarcossio/GetawayPlanner
 
 
