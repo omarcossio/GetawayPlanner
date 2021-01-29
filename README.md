@@ -12,7 +12,7 @@ The application works by searching a city and state. Once the user submits the s
 
 # Process
 Getaway Planner uses Zomato, OpenBreweryDB, and OpenWeatherMap APIs to get accurate information based on the users City and State inputs. 
-Omar - HTML and CSS (Bulma)
+Omar - HTML, CSS (Bulma) and linking APIs
 Paul - OpenBreweryDB and Search History
 James - Zomato
 Will - OpenWeatherMap
